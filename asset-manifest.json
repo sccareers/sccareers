@@ -1,9 +1,9 @@
 {
   "main.css": "/static/css/main.0c715001.chunk.css",
-  "main.js": "/static/js/main.c03a925b.chunk.js",
-  "main.js.map": "/static/js/main.c03a925b.chunk.js.map",
-  "static/js/1.9784ad29.chunk.js": "/static/js/1.9784ad29.chunk.js",
-  "static/js/1.9784ad29.chunk.js.map": "/static/js/1.9784ad29.chunk.js.map",
+  "main.js": "/static/js/main.bec3cce8.chunk.js",
+  "main.js.map": "/static/js/main.bec3cce8.chunk.js.map",
+  "static/js/1.5d464ce0.chunk.js": "/static/js/1.5d464ce0.chunk.js",
+  "static/js/1.5d464ce0.chunk.js.map": "/static/js/1.5d464ce0.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/crypto.module.css": "/static/media/SCORE CIRCLE.8ae40eb7.svg",
@@ -17,6 +17,6 @@
   "static/media/circle.svg": "/static/media/circle.9c4bd03a.svg",
   "static/css/main.0c715001.chunk.css.map": "/static/css/main.0c715001.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.24ab36d4d2c38e3cc297aed870529f69.js": "/precache-manifest.24ab36d4d2c38e3cc297aed870529f69.js",
+  "precache-manifest.8f39b525a8278ae2ddb68f918d93aab0.js": "/precache-manifest.8f39b525a8278ae2ddb68f918d93aab0.js",
   "service-worker.js": "/service-worker.js"
 }
