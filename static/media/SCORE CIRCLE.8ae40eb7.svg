@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 343 343">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcea81;
+      }
+    </style>
+  </defs>
+  <path id="SCORE_CIRCLE" data-name="SCORE CIRCLE" class="cls-1" d="M171.5,0A171.5,171.5,0,1,1,0,171.5,171.5,171.5,0,0,1,171.5,0Z"/>
+</svg>
